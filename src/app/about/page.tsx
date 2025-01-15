@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: 'Trader',
   description: 'Oyiga 10000 dollor foyda',
   openGraph: {
-    images: ['/public/images/walper.webp'],
+    images: ['images/walper.webp'],
   },
 };
 
